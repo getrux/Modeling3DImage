@@ -15,10 +15,19 @@ To give values to c
 ./demo
 To give values to c
 
+Software written in C ++ for Linux allows inputs an ASCII file with
+polygonal and allows 3D viewing surface (display it on screen or
+image recording).
+
+This is a little example of input file
+![alt tag](http://i.imgur.com/EkHw5ZY.png)					
 
 
-							
+We are rendering a human structure
+![alt tag](http://i.imgur.com/ydn9gQL.png)	
 
 
+We are rendering a face.
+![alt tag](http://i.imgur.com/PL4GTAS.png)	
 
 
