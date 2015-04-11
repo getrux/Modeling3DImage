@@ -1,0 +1,24 @@
+
+
+3 executables are generated:
+
+to execute:
+./Render objeto.txt
+To generate a file with the image test.bmp
+The parameters must be edited from the main (Render.cpp)
+
+./cli objeto.txt
+the program ask us the color of the ambient light and the incident
+and we give floating point values between 0 and 1.
+To give values to c
+
+./demo
+To give values to c
+
+
+
+							
+
+
+
+
